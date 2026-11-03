@@ -1,0 +1,6 @@
+{
+  "name": "CHRONOS: Quantum Watch Atelier & Temporal Lab",
+  "description": "Craft your signature haute horlogerie timepiece, master precision mechanics, and calibrate temporal accuracy in an elite Swiss digital watchmaker atelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
